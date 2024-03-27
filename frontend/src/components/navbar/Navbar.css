@@ -6,7 +6,6 @@
 
 .logo{
     width: 10%;
-
     object-fit: contain;
 }
 
@@ -20,4 +19,11 @@ li{
     text-decoration: none;
     list-style: none;
     padding: 1px 15px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
 }
